@@ -11,7 +11,7 @@ from threading import Thread
 loop = asyncio.get_event_loop()
 
 # Bot token
-TOKEN = '7362289727:AAE6RWfho65aJUxMyOSdvxXVBndKGx4QZcc'
+TOKEN = '7252746907:AAGkWBL1YkjwKX_ceXzNW-xxVuPLuRoEME0'
 bot = telebot.TeleBot(TOKEN)
 REQUEST_INTERVAL = 1
 
